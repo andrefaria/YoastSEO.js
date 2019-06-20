@@ -3,7 +3,7 @@ const singleWords = [
 	"conquanto", "contudo", "decerto", "embora", "enfim", "enquanto", "então", "entretanto", "eventualmente",
 	"igualmente", "inegavelmente", "inesperadamente", "mas", "outrossim", "pois", "porquanto", "porque", "portanto",
 	"posteriormente", "precipuamente", "primeiramente", "primordialmente", "principalmente", "salvo",
-	"semelhantemente", "similarmente", "sobretudo", "surpreendentemente", "todavia",
+	"semelhantemente", "similarmente", "sobretudo", "surpreendentemente", "todavia", "consequentemente",
 ];
 
 const multipleWords = [
